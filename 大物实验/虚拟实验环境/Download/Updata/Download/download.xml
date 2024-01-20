@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <Experiment Sort="力学实验" Name="用单摆测量重力加速度" UpTime="2022-03-02T15:53:17.433" ID="356" />
+  <Experiment Sort="光学实验" Name="干涉法测微小量" UpTime="2021-08-11T14:10:33" ID="371" />
+  <Experiment Sort="电学实验" Name="示波器实验" UpTime="2021-08-11T14:01:54" ID="359" />
+  <Experiment Sort="3D分光计实验" Name="3D分光计" UpTime="2021-12-06T17:37:08.007" ID="524" />
+</root>
